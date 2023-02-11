@@ -17,7 +17,7 @@ print("###################################")
 
 hack = input("TARGET  PHONE : ")
 
-l = ["hacking the rubika 18%...", "hacking the rubika 32%....", "hacking the rubika 58%.....", "hacking the rubika 76%......", "hacking the rubika 99%.......", " * hacking failed - Done! Crack the code  rubika target :* "]
+l = ["hacking 18%■■■□□□□□", "hacking 32%■■■■□□□□", "hacking 58%■■■■■□□□", "hacking 76%■■■■■■□□", "hacking 99%■■■■■■■□", " * hacking failed - Done! Crack the code   target :* "]
 
 for i in l:
     print("\r" + i, end="")

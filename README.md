@@ -10,6 +10,8 @@ pkg install git
 
 pkg install python
 
+ پس از این مرحله اگر اولین بار است که از ترموکس استفاده می‌کنید پس باید Y را پس از انجام این مرحله وارد کنید
+
 git clone https://github.com/Yousefnazeri/test-hack.git
 
 cd test-hack

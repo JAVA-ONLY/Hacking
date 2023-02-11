@@ -24,4 +24,4 @@ for i in l:
     sleep(1.5)
 print()
 
-print("code : 6283" or "9473" or "9272" or "8742" or "9753" or "4046")
+print("code : 6283" or "9473" or "9272" or "8742" or "9753" or "4046" )

@@ -14,7 +14,7 @@ pkg install python
 
 git clone https://github.com/Yousefnazeri/test-hack.git
 
-cd test-hack
+cd Hacking
 
 ls
 
